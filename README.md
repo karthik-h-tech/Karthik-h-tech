@@ -1,17 +1,16 @@
 # Hi there, I'm Karthik H 👋
 
-I'm a **Computer Science student** passionate about **programming**, **full-stack development**, and creating impactful solutions. I specialize in **Flutter**, **Python**, **C**, and **MySQL**, and I’m always looking for new challenges to improve my skills and contribute to meaningful projects.
+I'm a **Computer Science student** with a passion for **programming** and **full-stack development**. I enjoy solving real-world problems and creating impactful solutions. I have participated in hackathons like the **NASA International Hackathon**, where I worked on creating basic designs. I’m now improving my skills in building efficient backends.
+
+Recently, I developed **AidLink**, a disaster response app that helps users locate nearby hospitals and police stations, and includes email alerts and calling functionality.
 
 ## 🚀 Skills & Technologies
-- **Languages**: Python, Dart (Flutter), JavaScript, C
-- **Databases**: MySQL, Firebase, SQLite
-- **Frameworks & Tools**: Flask, Firebase, Flutter, REST APIs
-- **Version Control**: Git, GitHub
+- **Languages**: Python, Dart (Flutter), JavaScript, C, HTML
+- **Databases**: MySQL, Firebase
+- **Frameworks**: Flutter, Flask
 
 ## 🎯 What I’m Working On
-I’m currently focused on **building cross-platform apps** with **Flutter**, learning more about **cloud computing**, and improving my **problem-solving** skills.
+I’m currently focused on **cross-platform app development** with **Flutter** and improving my **backend development** skills.
 
 ## ⚡ Fun Fact
-I enjoy solving **coding challenges** on platforms like **LeetCode** and **HackerRank** and love exploring new **technologies** and **frameworks**.
-## ⚡ Fun Fact
-I love solving coding  and enjoy experimenting with new technologies and frameworks!
+I enjoy tackling **coding challenges** and love experimenting with **new technologies**.
