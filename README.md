@@ -7,7 +7,7 @@ I’m a passionate **Computer Science student** who loves building impactful, re
 ## 🛠️ What I Do
 
 - 🌍 Build **cross-platform apps** using **Flutter**
-- 🧠 Explore **backend development** with **Flask** and **Firebase**
+- 🧠 Develop robust backends using **Flask** and **Firebase**
 - 🛰️ Participated in global hackathons like the **NASA International Hackathon**
 - 📱 Created **AidLink**, a disaster response app that locates nearby hospitals and police stations with emergency alerts
 
@@ -18,31 +18,30 @@ I’m a passionate **Computer Science student** who loves building impactful, re
 - **Languages**: Python, Dart (Flutter), JavaScript, C, HTML  
 - **Frameworks & Tools**: Flutter, Flask, Git, GitHub, VS Code, Google Colab  
 - **Databases**: MySQL, Firebase  
-- **Other**: API integration, GitHub collaboration, real-time app development
+- **Other**: REST APIs, real-time systems, API integration, GitHub collaboration
 
 ---
 
 ## 🎯 What I’m Currently Working On
 
 - Enhancing my skills in **backend development** and **REST API design**  
-- Exploring **modern deployment techniques** (e.g., Docker, CI/CD)  
-- Learning to build **efficient and scalable software systems**  
-- Diving deeper into **data-driven applications** and **Python-based automation**
+- Building **scalable web services** and automating workflows using Python  
+- Diving deeper into **data-driven applications** and API-based integrations  
+- Exploring performance tuning and **clean software architecture** patterns
 
-___
+---
 
 ## 🔧 What I'm Exploring Next
 
-- 🐳 Setting up **Docker** and containerized environments  
-- 🧪 Writing automated tests and building **CI/CD pipelines**  
-- 📊 Creating dashboards and data visualizations with Python  
+- 🧪 Writing automated tests and building CI/CD pipelines  
+- 📊 Creating dashboards and visualizations using Python  
 - 🔐 Implementing secure user authentication (OAuth, JWT)
 
 ---
 
 ## ⚡ Fun Fact
 
-I love taking on **coding challenges**, trying out new tools, and building practical solutions with clean design and efficiency.
+I love taking on **coding challenges**, trying new tools, and crafting clean, efficient solutions that solve real-world problems.
 
 ---
 
