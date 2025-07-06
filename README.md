@@ -1,16 +1,55 @@
-# Hi there, I'm Karthik H 👋
+# 👋 Hi there, I'm Karthik H
 
-I'm a **Computer Science student** with a passion for **programming** and **full-stack development**. I enjoy solving real-world problems and creating impactful solutions. I have participated in hackathons like the **NASA International Hackathon**, where I worked on creating basic designs. I’m now improving my skills in building efficient backends.
+I’m a passionate **Computer Science student** who loves building impactful, real-world tech solutions. My interests span **full-stack development**, **backend engineering**, and **machine learning**. I enjoy solving meaningful problems and constantly push myself to learn and grow.
 
-Recently, I developed **AidLink**, a disaster response app that helps users locate nearby hospitals and police stations, and includes email alerts and calling functionality.
+---
+
+## 🛠️ What I Do
+
+- 🌍 Build **cross-platform apps** using **Flutter**
+- 🧠 Explore **backend development** with **Flask** and **Firebase**
+- 🛰️ Participated in global hackathons like the **NASA International Hackathon**
+- 📱 Created **AidLink**, a disaster response app that locates nearby hospitals and police stations with emergency alerts
+
+---
 
 ## 🚀 Skills & Technologies
-- **Languages**: Python, Dart (Flutter), JavaScript, C, HTML
-- **Databases**: MySQL, Firebase
-- **Frameworks**: Flutter, Flask
 
-## 🎯 What I’m Working On
-I’m currently focused on **cross-platform app development** with **Flutter** and improving my **backend development** skills.
+- **Languages**: Python, Dart (Flutter), JavaScript, C, HTML  
+- **Frameworks & Tools**: Flutter, Flask, Git, GitHub, VS Code, Google Colab  
+- **Databases**: MySQL, Firebase  
+- **Other**: API integration, GitHub collaboration, real-time app development
+
+---
+
+## 🎯 What I’m Currently Working On
+
+- Building **real-time mobile apps** with Flutter and Firebase  
+- Enhancing my skills in **backend development and REST APIs**  
+- Learning to build efficient, scalable software systems  
+- Exploring modern deployment techniques and performance optimization
+
+---
+
+## 🔧 What I'm Exploring Next
+
+- 🐳 Setting up **Docker** and containerized environments  
+- 🧪 Writing automated tests and building **CI/CD pipelines**  
+- 📊 Creating dashboards and data visualizations with Python  
+- 🔐 Implementing secure user authentication (OAuth, JWT)
+
+---
 
 ## ⚡ Fun Fact
-I enjoy tackling **coding challenges** and love experimenting with **new technologies**.
+
+I love taking on **coding challenges**, trying out new tools, and building practical solutions with clean design and efficiency.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [Karthikprathibha@gmail.com](mailto:Karthikprathibha@gmail.com)
+
+---
+
+Thanks for visiting my GitHub profile! 👨‍💻✨
