@@ -24,12 +24,12 @@ I’m a passionate **Computer Science student** who loves building impactful, re
 
 ## 🎯 What I’m Currently Working On
 
-- Building **real-time mobile apps** with Flutter and Firebase  
-- Enhancing my skills in **backend development and REST APIs**  
-- Learning to build efficient, scalable software systems  
-- Exploring modern deployment techniques and performance optimization
+- Enhancing my skills in **backend development** and **REST API design**  
+- Exploring **modern deployment techniques** (e.g., Docker, CI/CD)  
+- Learning to build **efficient and scalable software systems**  
+- Diving deeper into **data-driven applications** and **Python-based automation**
 
----
+___
 
 ## 🔧 What I'm Exploring Next
 
